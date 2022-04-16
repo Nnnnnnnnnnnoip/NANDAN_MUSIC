@@ -1,9 +1,9 @@
-# SMOKER MUSICX
+# NANDAN MUSICX
 
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/sanki_owner"><img src="https://te.legra.ph/file/cb120c72f464ff25025a3.jpg"></a></p>
+<p align="center"><a href="https://t.me/BHUMIHAR_OP1"><img src="https://telegra.ph/file/bfbf32b24d1cc623013cf.jpg"></a></p>
 
 
 # ʜᴇʀoᴋᴜ ᴅᴇᴘʟᴏʏ
@@ -15,8 +15,6 @@
 
 
 ꜱᴛʀɪɴɢ ɴᴀᴍᴇ:
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-brown)](https://replit.com/@HEXOROP/eSportMusic)
 
 
 
